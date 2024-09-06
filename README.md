@@ -12,6 +12,8 @@ Este repositório armazena todo o conteúdo produzido nas aulas da disciplina 'P
 
 
 ## Prints da aula01_2:
+## Print da Tela
+(https://drive.google.com/uc?export=view&id=1JCdYq81L50Ly_T6if9r_2_Piz1wT7vQw)
 
 
 ## Prints da aula02:
