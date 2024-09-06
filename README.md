@@ -8,7 +8,7 @@ Este repositório armazena todo o conteúdo produzido nas aulas da disciplina 'P
 
 ## Prints da aula01:
 ### Exercício 1:
-[![Print-Prog-Disp-Moveis-aula01.jpg](https://i.postimg.cc/fbv9rL5Q/Print-Prog-Disp-Moveis-aula01.jpg)]((https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01/src/components/Exercicio01.js))
+[![Print-Prog-Disp-Moveis-aula01.jpg](https://i.postimg.cc/fbv9rL5Q/Print-Prog-Disp-Moveis-aula01.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01/src/components/Exercicio01.js)
 
 ## Prints da aula01_2:
 
