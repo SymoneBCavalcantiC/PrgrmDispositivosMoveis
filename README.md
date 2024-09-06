@@ -7,7 +7,7 @@ Este repositório armazena todo o conteúdo produzido nas aulas da disciplina 'P
 <h4><strong>Clique em qualquer imagem abaixo para ver seu código-fonte</strong></h4>
 
 ## Prints da aula01:
-<a href="https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/master/aula01/src/components/Exercicio1.js">
+<a href="https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01/src/components/Exercicio01.js">
   <img src="https://drive.google.com/file/d/1CJdqY18l5OLdY_T6i9f0_z_Py1zW7qwa/view?usp=drive_link" alt="Print do exercício 1" style="width:200px;"/>
 </a>
 
