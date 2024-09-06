@@ -10,10 +10,14 @@ Tecnologias empregadas: Node.js, NPM (Node Package Manager), Javascript, React N
 ### Exercício 1:
 [![Print-Prog-Disp-Moveis-aula01.jpg](https://i.postimg.cc/fbv9rL5Q/Print-Prog-Disp-Moveis-aula01.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01/src/components/Exercicio01.js)
 
+
 ## Prints da aula01_2:
-
-
-## Print da Tela
+### Exercício 2:
+[![Print-Exerc2-aula01-2.jpg](https://i.postimg.cc/wxbJrz1y/Print-Exerc2-aula01-2.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01_2/src/components/Exercicio02.js)
+### Exercício 3:
+[![Print-Exerc3-aula01-2.jpg](https://i.postimg.cc/V60rQrrJ/Print-Exerc3-aula01-2.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01_2/src/components/Exercicio03.js)
+### Exercício 4:
+[![Print-Exerc4-aula01-2.jpg](https://i.postimg.cc/DynZ5YgJ/Print-Exerc4-aula01-2.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula01_2/src/components/Exercicio04.js)
 
 
 ## Prints da aula02:
