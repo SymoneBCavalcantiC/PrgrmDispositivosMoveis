@@ -20,19 +20,19 @@ const styles = StyleSheet.create({
       width:'100%',
     }, 
     box1:{
-        height:100,
-        width:'100%',
-        backgroundColor:'red'
+      height:100,
+      width:'100%',
+      backgroundColor:'red'
       },
-      box2:{
-        height:100,
-        width:'100%',
-        backgroundColor:'yellow'
+    box2:{
+      height:100,
+      width:'100%',
+      backgroundColor:'yellow'
       },
-      box3:{
-        height:100,
-        width:'100%',
-        backgroundColor:'blue'
+    box3:{
+      height:100,
+      width:'100%',
+      backgroundColor:'blue'
       
     }
   });

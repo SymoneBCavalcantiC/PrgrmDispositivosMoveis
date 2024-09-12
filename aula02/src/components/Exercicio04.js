@@ -12,12 +12,12 @@ const Exercicio04 = () => {
 }
 const styles = StyleSheet.create({
     container:{
-        flex:1,
+      flex:1,
     },
     box:{
-        flex: 1,
-        width:200,
-        height:200
+      flex: 1,
+      width:200,
+      height:200
     },
 
 })

@@ -11,14 +11,14 @@ const Exercicio02 = () => {
 
 const styles = StyleSheet.create({
     container:{
-        flex:1,
-        justifyContent:'center',
-        alignItems:'center'
+      flex:1,
+      justifyContent:'center',
+      alignItems:'center'
     },
     box:{
-        width:50,
-        height:50,
-        backgroundColor:'pink'
+      width:50,
+      height:50,
+      backgroundColor:'pink'
     }
 })
 export default Exercicio02

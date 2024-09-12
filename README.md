@@ -29,6 +29,7 @@ Tecnologias empregadas: Node.js, NPM (Node Package Manager), Javascript, React N
 [![Print-Exerc03-aula02.jpg](https://i.postimg.cc/zXyJdZhf/Print-Exerc03-aula02.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula02/src/components/Exercicio03.js)
 ### Exercício 4:
 [![Print-Exerc04-aula02.jpg](https://i.postimg.cc/xj4QNxZV/Print-Exerc04-aula02.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula02/src/components/Exercicio04.js)
-
+### Exercício 5:
+[![Print-Exerc05-aula02.jpg](https://i.postimg.cc/65wSWYBs/Print-Exerc05-aula02.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula02/src/components/Exercicio05.js)
 
 ## Prints da aula03:
