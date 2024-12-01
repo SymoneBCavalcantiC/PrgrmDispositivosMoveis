@@ -35,3 +35,9 @@ Tecnologias empregadas: Node.js, NPM (Node Package Manager), Javascript, React N
 ## Prints da aula03:
 [![Print-Exercicios-aula03.jpg](https://i.postimg.cc/0N3kh39h/Print-Exercicios-aula03.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula03/src/screens/HomeScreen.js)
 [![Print-Exercicios-aula03-t2.jpg](https://i.postimg.cc/Bv8s5g2p/Print-Exercicios-aula03-t2.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula03/src/screens/DetailsScreen.js)
+
+## Prints da aula03_desafio:
+[![Print1-aula03desafio.jpg](https://i.postimg.cc/50DrjYFs/Print1-aula03desafio.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula03_desafio/App.js)
+[![Print2-aula03desafio.jpg](https://i.postimg.cc/rwKtNQnZ/Print2-aula03desafio.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula03/src/screens/DetailsScreen.js)
+[![Print3-aula03desafio.jpg](https://i.postimg.cc/y8H8knqS/Print3-aula03desafio.jpg)](https://github.com/SymoneBCavalcantiC/PrgrmDispositivosMoveis/blob/main/aula03/src/screens/DetailsScreen.js)
+
